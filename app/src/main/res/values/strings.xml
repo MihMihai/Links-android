@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Links</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forgot_password_title">Forgot password</string>
+    <string name="signup">Don\'t have an account? Sign up now!</string>
+    <string name="signuptitle">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="date">yyyy-mm-dd</string>
+    <string name="send_email">Send email</string>
+    <string name="birthday_date">Birthday date</string>
+</resources>
