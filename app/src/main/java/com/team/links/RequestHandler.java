@@ -29,7 +29,8 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class RequestHandler {
 
-    private static final String baseUrl = "http://188.26.165.190/api";
+    //private static final String baseUrl = "http://188.26.165.190/api";
+    private static final String baseUrl = "http://188.27.105.45/api"; //Current IP
 
     static String Get(String path, HashMap<String, String> queryParamers) {
         String baseURL = baseUrl + path + "?";
