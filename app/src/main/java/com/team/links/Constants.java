@@ -7,5 +7,6 @@ package com.team.links;
 public class Constants {
     public static final String login = "/login";
     public static final String signUp = "/signup";
+    public static final String forgotPassword  = "/forgot_password";
     public static final String somethingWrong = "Something went wrong";
 }

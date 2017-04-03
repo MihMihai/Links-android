@@ -57,6 +57,11 @@ public class PostRequestAsync extends AsyncTask<Void,Void,Void> {
                 case Constants.signUp:
                     ActivityController.showToastMessage(context,"Succesful signup! Check database! :P");
                     context.finish();
+                    break;
+                case Constants.forgotPassword:
+                    ActivityController.showToastMessage(context,"Email sent, check yo'self!");
+                    context.finish();
+                    break;
             }
         }
         /*else {
